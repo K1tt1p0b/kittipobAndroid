@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ใช้ Widget.MaterialComponents.BottomNavigationView เพื่อกำหนดพื้นฐาน -->
+    <style name="BottomNavigationViewStyle" parent="Widget.MaterialComponents.BottomNavigationView">
+        <!-- กำหนดสีพื้นหลังของ BottomNavigationView -->
+        <item name="android:background">?attr/colorSurface</item>
+        <!-- กำหนดสีไอคอนและข้อความเมื่อไม่เลือก -->
+        <item name="itemIconTint">@color/bottom_nav_item_color</item>
+        <item name="itemTextColor">@color/bottom_nav_item_color</item>
+        <!-- สีของ ripple effect -->
+        <item name="itemRippleColor">@color/colorPrimary</item>
+    </style>
+</resources>

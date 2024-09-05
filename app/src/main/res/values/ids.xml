@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextAreaSize" type="id" />
+    <item name="editTextBedrooms" type="id" />
+    <item name="editTextBathrooms" type="id" />
+    <item name="recyclerView" type="id" />
+    <item name="EditAreaSize" type="id" />
+    <item name="EditBedroom" type="id" />
+    <item name="EditBathrooms" type="id" />
+    <item name="EditPrice" type="id" />
+    <item name="EditConditionn" type="id" />
+    <item name="EditHouseType" type="id" />
+    <item name="EditYearBuilt" type="id" />
+    <item name="EditParkingSpaces" type="id" />
+    <item name="EditAddress" type="id" />
+    <item name="button" type="id" />
+    <item name="button2" type="id" />
+    <item name="imageView" type="id" />
+    <item name="navigation_add_house" type="id" />
+    <item name="selectImageButton" type="id" />
+</resources>
